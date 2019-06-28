@@ -19,6 +19,9 @@
 Understanding how we see the soft tissue in the brain through magnets is a mind blowing concept and is not without it's pitfalls. 
 Knowing the conceptual background behind how images are acquired will be useful when you are quality checking your data and trying to derive necessary bits of information for preprocessing your data. Slicetiming, echo time, repetition time,phase encoding direction, and many other words are jargon without the appropriate background, but can be essential parameters to know when working with your data.
 
+Another mri lecture series
+- [Shimoney](https://sites.wustl.edu/nillabs/mr-lecture-series/)
+
 The best lecture series I would start with is Dr. Lipton's series on MRI
 - [Dr. Lipton Lectures](https://www.youtube.com/playlist?list=PLH_k6d9j2lGUms4QZzokrkXGEoP6oxkYH)
 
